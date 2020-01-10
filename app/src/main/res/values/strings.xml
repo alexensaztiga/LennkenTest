@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LennkenTest</string>
+    <string name="title_gas">Gasolineras de México</string>
+    <string name="begin_button_title">Iniciar</string>
+    <string name="name_gas_row">Nombre de la Gasolinera</string>
+    <string name="title_map_button">Ver Gasolineras en Mapa</string>
+    <string name="Información">info_text</string>
+    <string name="info_text">Información</string>
+    <string name="name_gas">Nombre:</string>
+    <string name="street_gas">Dirección:</string>
+    <string name="pc_gas">Código Postal:</string>
+    <string name="rfc_gas">RFC:</string>
+    <string name="regular_gas">Precio Magna:</string>
+    <string name="premium_gas">Precio Premiun</string>
+    <string name="lat_gas">Latitud:</string>
+    <string name="lon_gas">Longitud:</string>
+    <string name="back_text">Regresar</string>
+    <string name="title_activity_gas_maps">Map</string>
+    <string name="send_text">Enviar</string>
+
+</resources>
